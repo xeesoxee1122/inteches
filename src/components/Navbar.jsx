@@ -1,4 +1,6 @@
 import { Bell, ChevronDown, Search } from "lucide-react";
+import profileImg from "../assets/pics/9.jpg";
+import logoImg from "../assets/pics/logo.png";
 
 const Navbar = () => {
   const menus = [
@@ -44,7 +46,7 @@ const Navbar = () => {
         <div className="left flex items-center gap-10">
           <a className="logo-container w-[100px]" href="#">
             <img
-              src="http://217.76.48.30/wp-content/uploads/2024/02/IDLIX-natal.webp"
+              src={logoImg}
               alt="logo"
             />
           </a>
@@ -65,7 +67,7 @@ const Navbar = () => {
           <Bell size={20} cursor={"pointer"} />
           <button className="profile flex gap-2 items-center cursor-pointer group relative">
             <img
-              src="src/assets/pics/9.jpg"
+              src={profileImg}
               alt="profile"
               className="w-10 h-10 rounded-full object-cover "
             />

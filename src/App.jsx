@@ -13,6 +13,7 @@ import "aos/dist/aos.css";
 // Import Lightbox
 import Lightbox from "yet-another-react-lightbox";
 import "yet-another-react-lightbox/styles.css";
+import Zoom from "yet-another-react-lightbox/plugins/zoom";
 
 function App() {
   const [openModal, setOpenModal] = useState(false);
@@ -136,11 +137,17 @@ function App() {
               </div>
 
               {/* Tampilan Level 3: Lightbox Preview */}
+              {/* 👇 2. Tambahkan plugins={[Zoom]} di sini */}
               <Lightbox
                 open={photoIndex >= 0}
                 index={photoIndex}
                 close={() => setPhotoIndex(-1)}
                 slides={selectedAlbum.photos}
+                plugins={[Zoom]} 
+                zoom={{
+                  maxZoomPixelRatio: 3, // Maksimal zoom 3x lipat
+                  zoomInMultiplier: 2, // Tiap klik tombol zoom in, membesar 2x
+                }}
               />
             </>
           )}
@@ -160,9 +167,9 @@ function App() {
           <div className="absolute inset-0 bg-gradient-to-t from-black" />
         </div>
         <div className="flex flex-col gap-3 lg:gap-5 p-5 text-white">
-          <h1 className="font-bold text-2xl">Nice To Meet You</h1>
-          <p>Pekuliahan Pertama kali R6</p>
-          <p>SARAN KATA KATA BAGUS DISINI!!!</p>
+          <h1 className="font-bold text-2xl">Nice To Meet Y'All</h1>
+          <p>Selamat datng di INTECHSECH ⭐</p>
+          <p>Web Ini Dibuat Untuk Menyimpan Kenangan dan Dokumentasi Kelas R6 Dari Awal Semester Satu Sampai Dengan Sekarang. Mulai Dari Momen Awal Meet-Up, Perayaan Hari Tertentu, Nugas Bareng, Jalan-jalan, dan Kegiatan Random.</p>
           <p>
             Thank You All,
             <br />

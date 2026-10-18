@@ -1,3 +1,37 @@
+//UPM
+import upm2 from "../assets/pics/UPM/upm_2.jpg";
+import upm3 from "../assets/pics/UPM/upm_3.jpg";
+import upm4 from "../assets/pics/UPM/upm_4.jpg";
+import upm5 from "../assets/pics/UPM/upm_5.jpg";
+import upm7 from "../assets/pics/UPM/upm_7.jpg";
+import upm8 from "../assets/pics/UPM/upm_8.jpg";
+import upm9 from "../assets/pics/UPM/upm_9.jpg";
+import upm10 from "../assets/pics/UPM/upm_10.jpg";
+import upm11 from "../assets/pics/UPM/upm_11.jpg";
+import upm12 from "../assets/pics/UPM/upm_12.jpg";
+import upm13 from "../assets/pics/UPM/upm_13.jpg";
+import upm14 from "../assets/pics/UPM/upm_14.jpg";
+import upm15 from "../assets/pics/UPM/upm_15.jpg";
+import upm16 from "../assets/pics/UPM/upm_16.jpg";
+import upm17 from "../assets/pics/UPM/upm_17.jpg";
+import upm18 from "../assets/pics/UPM/upm_18.jpg";
+import upm19 from "../assets/pics/UPM/upm_19.jpg";
+import upm20 from "../assets/pics/UPM/upm_20.jpg";
+import upm21 from "../assets/pics/UPM/upm_21.jpg";
+import upm22 from "../assets/pics/UPM/upm_22.jpg";
+import upm23 from "../assets/pics/UPM/upm_23.jpg";
+import upm24 from "../assets/pics/UPM/upm_24.jpg";
+import upm25 from "../assets/pics/UPM/upm_25.jpg";
+import upm26 from "../assets/pics/UPM/upm_26.jpg";
+import upm27 from "../assets/pics/UPM/upm_27.jpg";
+import upm28 from "../assets/pics/UPM/upm_28.jpg";
+import upm29 from "../assets/pics/UPM/upm_29.jpg";
+import upm30 from "../assets/pics/UPM/upm_30.jpg";
+import upm31 from "../assets/pics/UPM/upm_31.jpg";
+import upm32 from "../assets/pics/UPM/upm_32.jpg";
+import upm33 from "../assets/pics/UPM/upm_33.jpg";
+import upm34 from "../assets/pics/UPM/upm_34.jpg";
+
 // curug
 import crug1 from "../assets/pics/curug/curug_1.jpg";
 import crug2 from "../assets/pics/curug/curug_2.jpg";
@@ -52,6 +86,13 @@ import vlla24 from "../assets/pics/villa_2/villa2_24.jpg";
 import vlla25 from "../assets/pics/villa_2/villa2_25.jpg";
 import vlla26 from "../assets/pics/villa_2/villa2_26.jpg";
 import vlla27 from "../assets/pics/villa_2/villa2_27.jpg";
+import vlla28 from "../assets/pics/villa_2/villa2_28.jpg";
+import vlla29 from "../assets/pics/villa_2/villa2_29.jpg";
+import vlla30 from "../assets/pics/villa_2/villa2_30.jpg";
+import vlla31 from "../assets/pics/villa_2/villa2_31.jpg";
+import vlla32 from "../assets/pics/villa_2/villa2_32.jpg";
+import vlla33 from "../assets/pics/villa_2/villa2_33.jpg";
+import vlla34 from "../assets/pics/villa_2/villa2_34.jpg";
 
 //bukber
 import bbr1 from "../assets/pics/bukber/bukber_1.jpg";
@@ -84,23 +125,69 @@ import bbr27 from "../assets/pics/bukber/bukber_27.jpg";
 import bbr28 from "../assets/pics/bukber/bukber_28.jpg";
 import bbr29 from "../assets/pics/bukber/bukber_29.jpg";
 import bbr30 from "../assets/pics/bukber/bukber_30.jpg";
-import bbr31 from "../assets/pics/bukber/bukber_31.jpg";
-import bbr32 from "../assets/pics/bukber/bukber_32.jpg";
-import bbr33 from "../assets/pics/bukber/bukber_33.jpg";
-import bbr34 from "../assets/pics/bukber/bukber_34.jpg";
-import bbr35 from "../assets/pics/bukber/bukber_35.jpg";
-import bbr36 from "../assets/pics/bukber/bukber_36.jpg";
-import bbr37 from "../assets/pics/bukber/bukber_37.jpg";
-import bbr38 from "../assets/pics/bukber/bukber_38.jpg";
-import bbr39 from "../assets/pics/bukber/bukber_39.jpg";
-import bbr40 from "../assets/pics/bukber/bukber_40.jpg";
-import bbr41 from "../assets/pics/bukber/bukber_41.jpg";
+
+//bakar-bakar
+import bkr1 from "../assets/pics/bakaran/bakar_1.jpg";
+import bkr2 from "../assets/pics/bakaran/bakar_2.jpg";
+import bkr3 from "../assets/pics/bakaran/bakar_3.jpg";
+import bkr4 from "../assets/pics/bakaran/bakar_4.jpg";
+import bkr5 from "../assets/pics/bakaran/bakar_5.jpg";
+import bkr6 from "../assets/pics/bakaran/bakar_6.jpg";
+import bkr7 from "../assets/pics/bakaran/bakar_7.jpg";
+import bkr8 from "../assets/pics/bakaran/bakar_8.jpg";
+import bkr9 from "../assets/pics/bakaran/bakar_9.jpg";
+import bkr10 from "../assets/pics/bakaran/bakar_10.jpg";
+import bkr11 from "../assets/pics/bakaran/bakar_11.jpg";
+import bkr12 from "../assets/pics/bakaran/bakar_12.jpg";
+import bkr13 from "../assets/pics/bakaran/bakar_13.jpg";
+import bkr14 from "../assets/pics/bakaran/bakar_14.jpg";
+import bkr15 from "../assets/pics/bakaran/bakar_15.jpg";
+import bkr16 from "../assets/pics/bakaran/bakar_16.jpg";
 
 
 export const photoAlbums = [
   {
+    id: "upm",
+    title: "UPM",
+    cover: upm2,
+    photos: [
+      { src: upm2 },
+      { src: upm3 },
+      { src: upm4 },
+      { src: upm5 },
+      { src: upm7 },
+      { src: upm8 },
+      { src: upm9 },
+      { src: upm10 },
+      { src: upm11 },
+      { src: upm12 },
+      { src: upm13 },
+      { src: upm14 },
+      { src: upm15 },
+      { src: upm16 },
+      { src: upm17 },
+      { src: upm18 },
+      { src: upm19 },
+      { src: upm20 },
+      { src: upm21 },
+      { src: upm22 },
+      { src: upm23 },
+      { src: upm24 },
+      { src: upm25 },
+      { src: upm26 },
+      { src: upm27 },
+      { src: upm28 },
+      { src: upm29 },
+      { src: upm30 },
+      { src: upm31 },
+      { src: upm32 },
+      { src: upm33 },
+      { src: upm34 },
+    ],
+  },
+  {
     id: "curug",
-    title: "Dokumentasi Curug",
+    title: "Curug",
     cover: crug1,
     photos: [
       { src: crug1 },
@@ -131,7 +218,7 @@ export const photoAlbums = [
   },
   {
     id: "villa",
-    title: "Dokumentasi Villa",
+    title: "Villa",
     cover: vlla1,
     photos: [
       { src: vlla1 },
@@ -161,11 +248,18 @@ export const photoAlbums = [
       { src: vlla25 },
       { src: vlla26 },
       { src: vlla27 },
+      { src: vlla28 },
+      { src: vlla29 },
+      { src: vlla30 },
+      { src: vlla31 },
+      { src: vlla32 },
+      { src: vlla33 },
+      { src: vlla34 },
     ],
   },
   {
     id: "bukber",
-    title: "Dokumentasi Bukber",
+    title: "Bukber",
     cover: bbr1,
     photos: [
       { src: bbr1 },
@@ -198,17 +292,30 @@ export const photoAlbums = [
       { src: bbr28 },
       { src: bbr29 },
       { src: bbr30 },
-      { src: bbr31 },
-      { src: bbr32 },
-      { src: bbr33 },      
-      { src: bbr34 },
-      { src: bbr35 },
-      { src: bbr36 },
-      { src: bbr37 },
-      { src: bbr38 },
-      { src: bbr39 },
-      { src: bbr40 },
-      { src: bbr41 },
     ],
   },
+  {
+    id: "bakar",
+    title: "Bakar-Bakar",
+    cover: bkr1,
+    photos: [
+      { src: bkr1 },
+      { src: bkr2 },
+      { src: bkr3 },
+      { src: bkr4 },
+      { src: bkr5 },
+      { src: bkr6 },
+      { src: bkr7 },
+      { src: bkr8 },
+      { src: bkr9 },
+      { src: bkr10 },
+      { src: bkr11 },
+      { src: bkr12 },
+      { src: bkr13 },
+      { src: bkr14 },
+      { src: bkr15 },
+      { src: bkr16 },
+    ],
+  },
+
 ];

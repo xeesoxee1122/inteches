@@ -168,10 +168,10 @@ function App() {
         </div>
         <div className="flex flex-col gap-3 lg:gap-5 p-5 text-white">
           <h1 className="font-bold text-2xl">Nice To Meet Y'All</h1>
-          <p>Selamat datng di INTECHSECH ⭐</p>
-          <p>Web Ini Dibuat Untuk Menyimpan Kenangan dan Dokumentasi Kelas R6 Dari Awal Semester Satu Sampai Dengan Sekarang. Mulai Dari Momen Awal Meet-Up, Perayaan Hari Tertentu, Nugas Bareng, Jalan-jalan, dan Kegiatan Random.</p>
+          <p>Selamat datang di INTECHSECH ⭐</p>
+          <p>Web ini dibuat untuk menyimpan kenangan dan dokumentasi kelas R6 dari awal semester satu sampai dengan sekarang. Mulai dari momen awal Meet-Up, perayaan hari tertentu, nugas bareng, jalan-jalan, dan kegiatan random.</p>
           <p>
-            Thank You All,
+            Thank You,
             <br />
             R6
           </p>

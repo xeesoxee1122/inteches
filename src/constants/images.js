@@ -144,6 +144,81 @@ import bkr14 from "../assets/pics/bakaran/bakar_14.jpg";
 import bkr15 from "../assets/pics/bakaran/bakar_15.jpg";
 import bkr16 from "../assets/pics/bakaran/bakar_16.jpg";
 
+//random photos
+import rndm1 from "../assets/pics/random/random_1.jpg";
+import rndm2 from "../assets/pics/random/random_2.jpg";
+import rndm3 from "../assets/pics/random/random_3.jpg";
+import rndm4 from "../assets/pics/random/random_4.jpg";
+import rndm5 from "../assets/pics/random/random_5.jpg";
+import rndm6 from "../assets/pics/random/random_6.jpg";
+import rndm7 from "../assets/pics/random/random_7.jpg";
+import rndm8 from "../assets/pics/random/random_8.jpg";
+import rndm9 from "../assets/pics/random/random_9.jpg";
+import rndm10 from "../assets/pics/random/random_10.jpg";
+import rndm11 from "../assets/pics/random/random_11.jpg";
+import rndm12 from "../assets/pics/random/random_12.jpg";
+import rndm13 from "../assets/pics/random/random_13.jpg";
+import rndm14 from "../assets/pics/random/random_14.jpg";
+import rndm15 from "../assets/pics/random/random_15.jpg";
+import rndm16 from "../assets/pics/random/random_16.jpg";
+import rndm17 from "../assets/pics/random/random_17.jpg";
+import rndm18 from "../assets/pics/random/random_18.jpg";
+import rndm19 from "../assets/pics/random/random_19.jpg";
+import rndm20 from "../assets/pics/random/random_20.jpg";
+import rndm21 from "../assets/pics/random/random_21.jpg";
+import rndm22 from "../assets/pics/random/random_22.jpg";
+import rndm23 from "../assets/pics/random/random_23.jpg";
+import rndm24 from "../assets/pics/random/random_24.jpg";
+import rndm25 from "../assets/pics/random/random_25.jpg";
+import rndm26 from "../assets/pics/random/random_26.jpg";
+import rndm27 from "../assets/pics/random/random_27.jpg";
+import rndm28 from "../assets/pics/random/random_28.jpg";
+import rndm29 from "../assets/pics/random/random_29.jpg";
+import rndm30 from "../assets/pics/random/random_30.jpg";
+import rndm31 from "../assets/pics/random/random_31.jpg";
+import rndm32 from "../assets/pics/random/random_32.jpg";
+import rndm33 from "../assets/pics/random/random_33.jpg";
+import rndm34 from "../assets/pics/random/random_34.jpg";
+import rndm35 from "../assets/pics/random/random_35.jpg";
+import rndm36 from "../assets/pics/random/random_36.jpg";
+import rndm37 from "../assets/pics/random/random_37.jpg";
+import rndm38 from "../assets/pics/random/random_38.jpg";
+import rndm39 from "../assets/pics/random/random_39.jpg";
+import rndm40 from "../assets/pics/random/random_40.jpg";
+import rndm41 from "../assets/pics/random/random_41.jpg";
+import rndm42 from "../assets/pics/random/random_42.jpg";
+import rndm43 from "../assets/pics/random/random_43.jpg";
+import rndm44 from "../assets/pics/random/random_44.jpg";
+import rndm45 from "../assets/pics/random/random_45.jpg";
+import rndm46 from "../assets/pics/random/random_46.jpg";
+import rndm47 from "../assets/pics/random/random_47.jpg";
+import rndm48 from "../assets/pics/random/random_48.jpg";
+import rndm49 from "../assets/pics/random/random_49.jpg";
+import rndm50 from "../assets/pics/random/random_50.jpg";
+import rndm51 from "../assets/pics/random/random_51.jpg";
+import rndm52 from "../assets/pics/random/random_52.jpg";
+import rndm53 from "../assets/pics/random/random_53.jpg";
+import rndm54 from "../assets/pics/random/random_54.jpg";
+import rndm55 from "../assets/pics/random/random_55.jpg";
+import rndm56 from "../assets/pics/random/random_56.jpg";
+import rndm57 from "../assets/pics/random/random_57.jpg";
+import rndm58 from "../assets/pics/random/random_58.jpg";
+import rndm59 from "../assets/pics/random/random_59.jpg";
+import rndm60 from "../assets/pics/random/random_60.jpg";
+import rndm61 from "../assets/pics/random/random_61.jpg";
+import rndm62 from "../assets/pics/random/random_62.jpg";
+import rndm63 from "../assets/pics/random/random_63.jpg";
+import rndm64 from "../assets/pics/random/random_64.jpg";
+import rndm65 from "../assets/pics/random/random_65.jpg";
+import rndm66 from "../assets/pics/random/random_66.jpg";
+import rndm67 from "../assets/pics/random/random_67.jpg";
+import rndm68 from "../assets/pics/random/random_68.jpg";
+import rndm69 from "../assets/pics/random/random_69.jpg";
+import rndm70 from "../assets/pics/random/random_70.jpg";
+import rndm71 from "../assets/pics/random/random_71.jpg";
+import rndm72 from "../assets/pics/random/random_72.jpg";
+import rndm73 from "../assets/pics/random/random_73.jpg";
+
 
 export const photoAlbums = [
   {
@@ -317,5 +392,84 @@ export const photoAlbums = [
       { src: bkr16 },
     ],
   },
-
+  {
+    id: "random",
+    title: "Random Photos",
+    cover: rndm1,
+    photos: [
+      { src: rndm1 },
+      { src: rndm2 },
+      { src: rndm3 },
+      { src: rndm4 },
+      { src: rndm5 },
+      { src: rndm6 },
+      { src: rndm7 },
+      { src: rndm8 },
+      { src: rndm9 },
+      { src: rndm10 },
+      { src: rndm11 },
+      { src: rndm12 },
+      { src: rndm13 },
+      { src: rndm14 },
+      { src: rndm15 },
+      { src: rndm16 },
+      { src: rndm17 },
+      { src: rndm18 },
+      { src: rndm19 },
+      { src: rndm20 },
+      { src: rndm21 },
+      { src: rndm22 },
+      { src: rndm23 },
+      { src: rndm24 },
+      { src: rndm25 },
+      { src: rndm26 },
+      { src: rndm27 },
+      { src: rndm28 },
+      { src: rndm29 },
+      { src: rndm30 },
+      { src: rndm31 },
+      { src: rndm32 },
+      { src: rndm33 },
+      { src: rndm34 },
+      { src: rndm35 },
+      { src: rndm36 },
+      { src: rndm37 },
+      { src: rndm38 },
+      { src: rndm39 },
+      { src: rndm40 },
+      { src: rndm41 },
+      { src: rndm42 },
+      { src: rndm43 },
+      { src: rndm44 },
+      { src: rndm45 },
+      { src: rndm46 },
+      { src: rndm47 },
+      { src: rndm48 },
+      { src: rndm49 },
+      { src: rndm50 },
+      { src: rndm51 },
+      { src: rndm52 },
+      { src: rndm53 },
+      { src: rndm54 },
+      { src: rndm55 },
+      { src: rndm56 },
+      { src: rndm57 },
+      { src: rndm58 },
+      { src: rndm59 },
+      { src: rndm60 },
+      { src: rndm61 },
+      { src: rndm62 },
+      { src: rndm63 },
+      { src: rndm64 },
+      { src: rndm65 },
+      { src: rndm66 },
+      { src: rndm67 },
+      { src: rndm68 },
+      { src: rndm69 },
+      { src: rndm70 },
+      { src: rndm71 },
+      { src: rndm72 },
+      { src: rndm73 },
+    ],
+  },
 ];

@@ -31,6 +31,9 @@ import upm31 from "../assets/pics/UPM/upm_31.jpg";
 import upm32 from "../assets/pics/UPM/upm_32.jpg";
 import upm33 from "../assets/pics/UPM/upm_33.jpg";
 import upm34 from "../assets/pics/UPM/upm_34.jpg";
+import upm35 from "../assets/pics/UPM/upm_35.jpeg";
+import upm36 from "../assets/pics/UPM/upm_36.jpeg";
+import upm37 from "../assets/pics/UPM/upm_37.jpeg";
 
 // curug
 import crug1 from "../assets/pics/curug/curug_1.jpg";
@@ -93,6 +96,9 @@ import vlla31 from "../assets/pics/villa_2/villa2_31.jpg";
 import vlla32 from "../assets/pics/villa_2/villa2_32.jpg";
 import vlla33 from "../assets/pics/villa_2/villa2_33.jpg";
 import vlla34 from "../assets/pics/villa_2/villa2_34.jpg";
+import vlla35 from "../assets/pics/villa_2/villa2_35.jpg";
+import vlla36 from "../assets/pics/villa_2/villa2_36.jpg";
+import vlla37 from "../assets/pics/villa_2/villa2_37.jpg";
 
 //bukber
 import bbr1 from "../assets/pics/bukber/bukber_1.jpg";
@@ -125,6 +131,7 @@ import bbr27 from "../assets/pics/bukber/bukber_27.jpg";
 import bbr28 from "../assets/pics/bukber/bukber_28.jpg";
 import bbr29 from "../assets/pics/bukber/bukber_29.jpg";
 import bbr30 from "../assets/pics/bukber/bukber_30.jpg";
+import bbr31 from "../assets/pics/bukber/bukber_31.jpeg";
 
 //bakar-bakar
 import bkr1 from "../assets/pics/bakaran/bakar_1.jpg";
@@ -143,6 +150,18 @@ import bkr13 from "../assets/pics/bakaran/bakar_13.jpg";
 import bkr14 from "../assets/pics/bakaran/bakar_14.jpg";
 import bkr15 from "../assets/pics/bakaran/bakar_15.jpg";
 import bkr16 from "../assets/pics/bakaran/bakar_16.jpg";
+import bkr17 from "../assets/pics/bakaran/bakar_17.jpeg";
+import bkr18 from "../assets/pics/bakaran/bakar_18.jpeg";
+import bkr19 from "../assets/pics/bakaran/bakar_19.jpeg";
+import bkr20 from "../assets/pics/bakaran/bakar_20.jpeg";
+import bkr21 from "../assets/pics/bakaran/bakar_21.jpeg";
+import bkr22 from "../assets/pics/bakaran/bakar_22.jpeg";
+import bkr23 from "../assets/pics/bakaran/bakar_23.jpeg";
+import bkr24 from "../assets/pics/bakaran/bakar_24.jpeg";
+import bkr25 from "../assets/pics/bakaran/bakar_25.jpeg";
+import bkr26 from "../assets/pics/bakaran/bakar_26.jpeg";
+import bkr27 from "../assets/pics/bakaran/bakar_27.jpeg";
+import bkr28 from "../assets/pics/bakaran/bakar_28.jpeg";
 
 //random photos
 import rndm1 from "../assets/pics/random/random_1.jpg";
@@ -153,7 +172,6 @@ import rndm5 from "../assets/pics/random/random_5.jpg";
 import rndm6 from "../assets/pics/random/random_6.jpg";
 import rndm7 from "../assets/pics/random/random_7.jpg";
 import rndm8 from "../assets/pics/random/random_8.jpg";
-import rndm9 from "../assets/pics/random/random_9.jpg";
 import rndm10 from "../assets/pics/random/random_10.jpg";
 import rndm11 from "../assets/pics/random/random_11.jpg";
 import rndm12 from "../assets/pics/random/random_12.jpg";
@@ -218,6 +236,53 @@ import rndm70 from "../assets/pics/random/random_70.jpg";
 import rndm71 from "../assets/pics/random/random_71.jpg";
 import rndm72 from "../assets/pics/random/random_72.jpg";
 import rndm73 from "../assets/pics/random/random_73.jpg";
+import rndm74 from "../assets/pics/random/random_74.jpeg";
+import rndm75 from "../assets/pics/random/random_75.jpeg";
+import rndm76 from "../assets/pics/random/random_76.jpeg";
+import rndm77 from "../assets/pics/random/random_77.jpeg";
+import rndm78 from "../assets/pics/random/random_78.jpeg";
+import rndm79 from "../assets/pics/random/random_79.jpeg";
+import rndm80 from "../assets/pics/random/random_80.jpeg";
+import rndm81 from "../assets/pics/random/random_81.jpeg";
+import rndm82 from "../assets/pics/random/random_82.jpeg";
+import rndm83 from "../assets/pics/random/random_83.jpeg";
+import rndm84 from "../assets/pics/random/random_84.jpeg";
+import rndm85 from "../assets/pics/random/random_85.jpeg";
+import rndm86 from "../assets/pics/random/random_86.jpeg";
+import rndm87 from "../assets/pics/random/random_87.jpeg";
+import rndm88 from "../assets/pics/random/random_88.jpeg";
+import rndm89 from "../assets/pics/random/random_89.jpeg";
+import rndm90 from "../assets/pics/random/random_90.jpeg";
+import rndm91 from "../assets/pics/random/random_91.jpeg";
+import rndm92 from "../assets/pics/random/random_92.jpeg";
+import rndm93 from "../assets/pics/random/random_93.jpeg";
+import rndm94 from "../assets/pics/random/random_94.jpeg";
+import rndm95 from "../assets/pics/random/random_95.jpeg";
+import rndm96 from "../assets/pics/random/random_96.jpeg";
+import rndm97 from "../assets/pics/random/random_97.jpeg";
+import rndm98 from "../assets/pics/random/random_98.jpeg";
+import rndm99 from "../assets/pics/random/random_99.jpeg";
+import rndm100 from "../assets/pics/random/random_100.jpeg";
+import rndm101 from "../assets/pics/random/random_101.jpeg";
+import rndm102 from "../assets/pics/random/random_102.jpeg";
+import rndm103 from "../assets/pics/random/random_103.jpeg";
+import rndm104 from "../assets/pics/random/random_104.jpeg";
+import rndm105 from "../assets/pics/random/random_105.jpeg";
+import rndm106 from "../assets/pics/random/random_106.jpeg";
+import rndm107 from "../assets/pics/random/random_107.jpeg";
+import rndm108 from "../assets/pics/random/random_108.jpeg";
+import rndm109 from "../assets/pics/random/random_109.jpeg";
+import rndm110 from "../assets/pics/random/random_110.jpeg";
+import rndm111 from "../assets/pics/random/random_111.jpeg";
+import rndm112 from "../assets/pics/random/random_112.jpeg";
+import rndm113 from "../assets/pics/random/random_113.jpeg";
+import rndm114 from "../assets/pics/random/random_114.jpeg";
+import rndm115 from "../assets/pics/random/random_115.jpeg";
+import rndm116 from "../assets/pics/random/random_116.jpeg";
+import rndm117 from "../assets/pics/random/random_117.jpeg";
+import rndm118 from "../assets/pics/random/random_118.jpeg";
+import rndm119 from "../assets/pics/random/random_119.jpeg";
+import rndm120 from "../assets/pics/random/random_120.jpeg";
 
 
 export const photoAlbums = [
@@ -258,6 +323,9 @@ export const photoAlbums = [
       { src: upm32 },
       { src: upm33 },
       { src: upm34 },
+      { src: upm35 },
+      { src: upm36 },
+      { src: upm37 },
     ],
   },
   {
@@ -330,6 +398,9 @@ export const photoAlbums = [
       { src: vlla32 },
       { src: vlla33 },
       { src: vlla34 },
+      { src: vlla35 },
+      { src: vlla36 },
+      { src: vlla37 }
     ],
   },
   {
@@ -367,6 +438,7 @@ export const photoAlbums = [
       { src: bbr28 },
       { src: bbr29 },
       { src: bbr30 },
+      { src: bbr31 }
     ],
   },
   {
@@ -390,6 +462,18 @@ export const photoAlbums = [
       { src: bkr14 },
       { src: bkr15 },
       { src: bkr16 },
+      { src: bkr17 },
+      { src: bkr18 },
+      { src: bkr19 },
+      { src: bkr20 },
+      { src: bkr21 },
+      { src: bkr22 },
+      { src: bkr23 },
+      { src: bkr24 },
+      { src: bkr25 },
+      { src: bkr26 },
+      { src: bkr27 },
+      { src: bkr28 }
     ],
   },
   {
@@ -405,7 +489,6 @@ export const photoAlbums = [
       { src: rndm6 },
       { src: rndm7 },
       { src: rndm8 },
-      { src: rndm9 },
       { src: rndm10 },
       { src: rndm11 },
       { src: rndm12 },
@@ -470,6 +553,53 @@ export const photoAlbums = [
       { src: rndm71 },
       { src: rndm72 },
       { src: rndm73 },
+      { src: rndm74 },
+      { src: rndm75 },
+      { src: rndm76 },
+      { src: rndm77 },
+      { src: rndm78 },
+      { src: rndm79 },
+      { src: rndm80 },
+      { src: rndm81 },
+      { src: rndm82 },
+      { src: rndm83 },
+      { src: rndm84 },
+      { src: rndm85 },
+      { src: rndm86 },
+      { src: rndm87 },
+      { src: rndm88 },
+      { src: rndm89 },
+      { src: rndm90 },
+      { src: rndm91 },
+      { src: rndm92 },
+      { src: rndm93 },
+      { src: rndm94 },
+      { src: rndm95 },
+      { src: rndm96 },
+      { src: rndm97 },
+      { src: rndm98 },
+      { src: rndm99 },
+      { src: rndm100 },
+      { src: rndm101 },
+      { src: rndm102 },
+      { src: rndm103 },
+      { src: rndm104 },
+      { src: rndm105 },
+      { src: rndm106 },
+      { src: rndm107 },
+      { src: rndm108 },
+      { src: rndm109 },
+      { src: rndm110 },
+      { src: rndm111 },
+      { src: rndm112 },
+      { src: rndm113 },
+      { src: rndm114 },
+      { src: rndm115 },
+      { src: rndm116 },
+      { src: rndm117 },
+      { src: rndm118 },
+      { src: rndm119 },
+      { src: rndm120 }
     ],
   },
 ];

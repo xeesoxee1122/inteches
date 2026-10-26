@@ -152,8 +152,6 @@ import bkr12 from "../assets/pics/bakaran/bakar_12.jpg";
 import bkr13 from "../assets/pics/bakaran/bakar_13.jpg";
 import bkr14 from "../assets/pics/bakaran/bakar_14.jpg";
 import bkr15 from "../assets/pics/bakaran/bakar_15.jpeg";
-import bkr16 from "../assets/pics/bakaran/bakar_16.jpg";
-import bkr17 from "../assets/pics/bakaran/bakar_17.jpeg";
 import bkr18 from "../assets/pics/bakaran/bakar_18.jpeg";
 import bkr19 from "../assets/pics/bakaran/bakar_19.jpeg";
 import bkr20 from "../assets/pics/bakaran/bakar_20.jpeg";
@@ -164,7 +162,6 @@ import bkr24 from "../assets/pics/bakaran/bakar_24.jpeg";
 import bkr25 from "../assets/pics/bakaran/bakar_25.jpeg";
 import bkr26 from "../assets/pics/bakaran/bakar_26.jpeg";
 import bkr27 from "../assets/pics/bakaran/bakar_27.jpeg";
-import bkr28 from "../assets/pics/bakaran/bakar_28.jpeg";
 
 //random photos
 import rndm1 from "../assets/pics/random/random_1.jpg";
@@ -467,8 +464,6 @@ export const photoAlbums = [
       { src: bkr13 },
       { src: bkr14 },
       { src: bkr15 },
-      { src: bkr16 },
-      { src: bkr17 },
       { src: bkr18 },
       { src: bkr19 },
       { src: bkr20 },
@@ -479,7 +474,6 @@ export const photoAlbums = [
       { src: bkr25 },
       { src: bkr26 },
       { src: bkr27 },
-      { src: bkr28 }
     ],
   },
   {

@@ -131,7 +131,10 @@ import bbr27 from "../assets/pics/bukber/bukber_27.jpg";
 import bbr28 from "../assets/pics/bukber/bukber_28.jpg";
 import bbr29 from "../assets/pics/bukber/bukber_29.jpg";
 import bbr30 from "../assets/pics/bukber/bukber_30.jpg";
-import bbr31 from "../assets/pics/bukber/bukber_31.jpeg";
+import bbr31 from "../assets/pics/bukber/bukber_31.jpg";
+import bbr32 from "../assets/pics/bukber/bukber_32.jpeg";
+import bbr33 from "../assets/pics/bukber/bukber_33.jpg";
+import bbr34 from "../assets/pics/bukber/bukber_34.jpeg";
 
 //bakar-bakar
 import bkr1 from "../assets/pics/bakaran/bakar_1.jpg";
@@ -148,7 +151,7 @@ import bkr11 from "../assets/pics/bakaran/bakar_11.jpg";
 import bkr12 from "../assets/pics/bakaran/bakar_12.jpg";
 import bkr13 from "../assets/pics/bakaran/bakar_13.jpg";
 import bkr14 from "../assets/pics/bakaran/bakar_14.jpg";
-import bkr15 from "../assets/pics/bakaran/bakar_15.jpg";
+import bkr15 from "../assets/pics/bakaran/bakar_15.jpeg";
 import bkr16 from "../assets/pics/bakaran/bakar_16.jpg";
 import bkr17 from "../assets/pics/bakaran/bakar_17.jpeg";
 import bkr18 from "../assets/pics/bakaran/bakar_18.jpeg";
@@ -438,7 +441,10 @@ export const photoAlbums = [
       { src: bbr28 },
       { src: bbr29 },
       { src: bbr30 },
-      { src: bbr31 }
+      { src: bbr31 },
+      { src: bbr32 },
+      { src: bbr33 },
+      { src: bbr34 }
     ],
   },
   {
